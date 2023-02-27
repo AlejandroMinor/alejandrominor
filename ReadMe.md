@@ -1,5 +1,5 @@
 # 💫 About Me:
-Busco hacerme la vida más fácil con software💻<br>Actualmente trabajo como desarrollador en un proyecto con Odoo ⚡
+"Looking to make my life easier with software💻<br>Currently, I work as a developer in a project with Odoo ⚡ ⚡
 
 
 ## 🌐 Socials:
