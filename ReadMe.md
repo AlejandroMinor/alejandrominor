@@ -1,6 +1,5 @@
 # ⚡ About Me:
-Looking to make my life easier with software 💻<br>Currently, I work as a developer in a project in UNAM with Odoo 🛠
-
+Looking to make my life easier with software 💻<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandrominor) 
